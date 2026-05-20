@@ -1,607 +1,945 @@
-<main>
-    <section class="hero">
-        <div class="container hero-grid">
-            <div class="hero-copy reveal">
-                <span class="eyebrow">Café especial direto da origem</span>
-                <h1>
-                    Conectando tradição, qualidade e
-                    <span>experiência premium</span>.
-                </h1>
-                <p class="hero-text">
-                    Uma plataforma moderna para apresentar, valorizar e comercializar cafés de alta qualidade,
-                    com foco em origem, rastreabilidade, sustentabilidade e relacionamento com produtores e clientes.
-                </p>
-
-                <div class="hero-actions">
-                    <a href="#produtos" class="btn btn-primary">Conhecer produtos</a>
-                    <a href="#sobre" class="btn btn-ghost">Saiba mais</a>
-                </div>
-
-                <div class="hero-stats">
-                    <div class="stat-card">
-                        <strong>+1.500</strong>
-                        <span>produtores parceiros</span>
-                    </div>
-                    <div class="stat-card">
-                        <strong>100%</strong>
-                        <span>cuidado na origem</span>
-                    </div>
-                    <div class="stat-card">
-                        <strong>Alta</strong>
-                        <span>qualidade sensorial</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="hero-visual reveal">
-                <div class="glass-card main-card">
-                    <div class="coffee-circle"></div>
-                    <div class="floating-tag tag-one">Torra controlada</div>
-                    <div class="floating-tag tag-two">Grãos selecionados</div>
-                    <div class="floating-tag tag-three">Rastreabilidade total</div>
-
-                    <div class="main-card-content">
-                        <span class="small-label">Café premium</span>
-                        <h2>Excelência em cada etapa da cadeia</h2>
-                        <p>
-                            Da lavoura à xícara, com processos bem definidos, identidade visual refinada
-                            e comunicação que transmite confiança e valor.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="sobre" class="section">
-        <div class="container">
-            <div class="section-head reveal">
-                <span class="section-label">Sobre a marca</span>
-                <h2>Uma apresentação elegante para um café com presença forte no mercado</h2>
-                <p>
-                    Esta estrutura foi pensada para uma marca inspirada em cooperativas e empresas tradicionais
-                    do setor cafeeiro, com foco em reputação, escala e credibilidade.
-                </p>
-            </div>
-
-            <div class="info-grid">
-                <article class="info-card reveal">
-                    <h3>Origem valorizada</h3>
-                    <p>
-                        Apresente a procedência do café, regiões produtoras, altitude, clima e características
-                        que influenciam o sabor e a qualidade final.
-                    </p>
-                </article>
-
-                <article class="info-card reveal">
-                    <h3>Relação com o produtor</h3>
-                    <p>
-                        Destaque parceria, assistência técnica, práticas sustentáveis e suporte para
-                        fortalecer toda a cadeia produtiva.
-                    </p>
-                </article>
-
-                <article class="info-card reveal">
-                    <h3>Experiência premium</h3>
-                    <p>
-                        Uma interface sofisticada melhora a percepção de valor do produto e transmite
-                        profissionalismo em cada detalhe.
-                    </p>
-                </article>
-            </div>
-        </div>
-    </section>
-
-    <section id="produtos" class="section alt">
-        <div class="container">
-            <div class="section-head reveal">
-                <span class="section-label">Produtos</span>
-                <h2>Linhas de café para diferentes perfis de consumo e mercado</h2>
-                <p>
-                    Você pode adaptar este bloco para sacas, cafés torrados e moídos, cápsulas, blends,
-                    lotes especiais e exportação.
-                </p>
-            </div>
-
-            <div class="product-grid">
-                <article class="product-card reveal">
-                    <div class="product-icon">01</div>
-                    <h3>Café Tradicional</h3>
-                    <p>Perfil equilibrado, aroma marcante e excelente aceitação comercial.</p>
-                </article>
-
-                <article class="product-card reveal">
-                    <div class="product-icon">02</div>
-                    <h3>Café Especial</h3>
-                    <p>Notas sensoriais refinadas, mais complexidade e alto valor agregado.</p>
-                </article>
-
-                <article class="product-card reveal">
-                    <div class="product-icon">03</div>
-                    <h3>Blend Premium</h3>
-                    <p>Combinação estratégica de grãos para padronização e sabor exclusivo.</p>
-                </article>
-
-                <article class="product-card reveal">
-                    <div class="product-icon">04</div>
-                    <h3>Exportação</h3>
-                    <p>Apresentação voltada para mercados externos, com credibilidade e escala.</p>
-                </article>
-            </div>
-        </div>
-    </section>
-
-    <section id="qualidade" class="section">
-        <div class="container quality-wrap">
-            <div class="quality-copy reveal">
-                <span class="section-label">Qualidade</span>
-                <h2>Controle rigoroso para manter padrão e confiança</h2>
-                <p>
-                    Um site de café precisa transmitir o mesmo cuidado aplicado no processamento do produto.
-                    Aqui você pode destacar seleção, secagem, torra, análise sensorial e rastreabilidade.
-                </p>
-
-                <ul class="check-list">
-                    <li>Seleção cuidadosa de grãos</li>
-                    <li>Controle de torra e ponto ideal</li>
-                    <li>História da origem e da produção</li>
-                    <li>Compromisso com sustentabilidade</li>
-                </ul>
-            </div>
-
-            <div class="quality-panel reveal">
-                <div class="metric">
-                    <strong>85+</strong>
-                    <span>índice de qualidade sensorial</span>
-                </div>
-                <div class="metric">
-                    <strong>24h</strong>
-                    <span>suporte comercial e atendimento</span>
-                </div>
-                <div class="metric">
-                    <strong>100%</strong>
-                    <span>visual institucional profissional</span>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="estrutura" class="section alt">
-        <div class="container">
-            <div class="section-head reveal">
-                <span class="section-label">Estrutura</span>
-                <h2>Layout preparado para ser expandido com novas páginas</h2>
-                <p>
-                    O projeto pode crescer para catálogo, institucional, notícias, relacionamento,
-                    área do produtor e área administrativa.
-                </p>
-            </div>
-
-            <div class="timeline">
-                <div class="timeline-item reveal">
-                    <span class="timeline-dot"></span>
-                    <div>
-                        <h3>Institucional</h3>
-                        <p>História, missão, visão, valores e presença da marca no mercado.</p>
-                    </div>
-                </div>
-
-                <div class="timeline-item reveal">
-                    <span class="timeline-dot"></span>
-                    <div>
-                        <h3>Comercial</h3>
-                        <p>Catálogo de produtos, formulários, orçamento e canais de venda.</p>
-                    </div>
-                </div>
-
-                <div class="timeline-item reveal">
-                    <span class="timeline-dot"></span>
-                    <div>
-                        <h3>Relacionamento</h3>
-                        <p>Contato direto, comunicação com produtores e suporte ao cliente.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="contato" class="section">
-        <div class="container">
-            <div class="contact-box reveal">
-                <div>
-                    <span class="section-label">Contato</span>
-                    <h2>Leve sua marca de café para um nível mais profissional</h2>
-                    <p>
-                        Este modelo foi pensado para ficar bonito, atual e pronto para evolução futura.
-                        Posso também montar a versão com menu responsivo, formulário real e integração com banco de dados.
-                    </p>
-                </div>
-
-                <a href="mailto:contato@cafepremium.com" class="btn btn-primary">Solicitar orçamento</a>
-            </div>
-        </div>
-    </section>
-</main>
-
-<style>
-    .hero {
-        padding: 96px 0 56px;
-    }
-
-    .hero-grid {
-        display: grid;
-        grid-template-columns: 1.1fr 0.9fr;
-        gap: 36px;
-        align-items: center;
-    }
-
-    .eyebrow,
-    .section-label {
-        display: inline-flex;
-        align-items: center;
-        gap: 10px;
-        padding: 8px 14px;
-        border-radius: 999px;
-        background: rgba(201, 140, 77, 0.12);
-        border: 1px solid rgba(201, 140, 77, 0.22);
-        color: var(--accent-3);
-        font-size: 0.82rem;
-        font-weight: 600;
-        letter-spacing: 0.4px;
-    }
-
-    .hero-copy h1 {
-        font-size: clamp(2.6rem, 5vw, 5.2rem);
-        line-height: 0.98;
-        margin: 18px 0 18px;
-        letter-spacing: -1.6px;
-        max-width: 10ch;
-    }
-
-    .hero-copy h1 span,
-    .section-head h2 span {
-        color: var(--accent-3);
-    }
-
-    .hero-text {
-        color: var(--muted);
-        font-size: 1.05rem;
-        line-height: 1.9;
-        max-width: 62ch;
-    }
-
-    .hero-actions {
-        display: flex;
-        gap: 14px;
-        flex-wrap: wrap;
-        margin-top: 28px;
-    }
-
-    .hero-stats {
-        display: grid;
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-        gap: 14px;
-        margin-top: 34px;
-    }
-
-    .stat-card,
-    .info-card,
-    .product-card,
-    .quality-panel,
-    .contact-box,
-    .timeline-item {
-        background: var(--card);
-        border: 1px solid rgba(255, 255, 255, 0.09);
-        box-shadow: var(--shadow);
-        backdrop-filter: blur(18px);
-    }
-
-    .stat-card {
-        padding: 20px;
-        border-radius: var(--radius-sm);
-    }
-
-    .stat-card strong {
-        display: block;
-        font-size: 1.8rem;
-        margin-bottom: 4px;
-        color: #fff;
-    }
-
-    .stat-card span {
-        color: var(--muted);
-        font-size: 0.92rem;
-    }
-
-    .hero-visual {
-        position: relative;
-        min-height: 640px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .glass-card {
-        position: relative;
-        width: 100%;
-        min-height: 560px;
-        border-radius: 34px;
-        background:
-            linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.04)),
-            url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80') center/cover;
-        overflow: hidden;
-        border: 1px solid rgba(255, 255, 255, 0.12);
-        box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
-    }
-
-    .glass-card::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        background: linear-gradient(180deg, rgba(15, 11, 8, 0.05), rgba(15, 11, 8, 0.86));
-    }
-
-    .coffee-circle {
-        position: absolute;
-        right: 40px;
-        top: 58px;
-        width: 180px;
-        height: 180px;
-        border-radius: 50%;
-        border: 2px solid rgba(255, 255, 255, 0.18);
-        background: radial-gradient(circle, rgba(255,255,255,0.16), rgba(0,0,0,0.15));
-        animation: float 8s ease-in-out infinite;
-    }
-
-    .main-card-content {
-        position: absolute;
-        left: 28px;
-        right: 28px;
-        bottom: 28px;
-    }
-
-    .small-label {
-        display: inline-block;
-        margin-bottom: 10px;
-        color: var(--accent-3);
-        font-weight: 700;
-        letter-spacing: 0.4px;
-        text-transform: uppercase;
-        font-size: 0.75rem;
-    }
-
-    .main-card-content h2 {
-        font-size: 2rem;
-        line-height: 1.12;
-        margin-bottom: 10px;
-        max-width: 12ch;
-    }
-
-    .main-card-content p {
-        color: rgba(246, 241, 234, 0.8);
-        line-height: 1.8;
-        max-width: 44ch;
-    }
-
-    .floating-tag {
-        position: absolute;
-        padding: 10px 14px;
-        border-radius: 999px;
-        background: rgba(15, 11, 8, 0.60);
-        border: 1px solid rgba(255, 255, 255, 0.12);
-        font-size: 0.82rem;
-        backdrop-filter: blur(12px);
-        animation: float 10s ease-in-out infinite;
-    }
-
-    .tag-one { top: 32px; left: 28px; }
-    .tag-two { top: 130px; left: 54px; animation-delay: -2s; }
-    .tag-three { bottom: 120px; right: 30px; animation-delay: -4s; }
-
-    .section {
-        padding: 56px 0;
-    }
-
-    .section.alt {
-        background: linear-gradient(180deg, rgba(255,255,255,0.02), transparent);
-    }
-
-    .section-head {
-        max-width: 760px;
-        margin-bottom: 28px;
-    }
-
-    .section-head h2 {
-        font-size: clamp(1.8rem, 3vw, 3rem);
-        line-height: 1.08;
-        margin: 16px 0 14px;
-    }
-
-    .section-head p,
-    .info-card p,
-    .product-card p,
-    .quality-copy p,
-    .timeline-item p,
-    .contact-box p {
-        color: var(--muted);
-        line-height: 1.85;
-    }
-
-    .info-grid,
-    .product-grid {
-        display: grid;
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-        gap: 18px;
-    }
-
-    .info-card,
-    .product-card {
-        border-radius: 22px;
-        padding: 26px;
-        transition: transform 0.35s ease, border-color 0.35s ease;
-    }
-
-    .info-card:hover,
-    .product-card:hover {
-        transform: translateY(-6px);
-        border-color: rgba(201, 140, 77, 0.34);
-    }
-
-    .info-card h3,
-    .product-card h3 {
-        margin-bottom: 12px;
-        font-size: 1.2rem;
-    }
-
-    .product-icon {
-        width: 56px;
-        height: 56px;
-        border-radius: 18px;
-        display: grid;
-        place-items: center;
-        margin-bottom: 18px;
-        background: linear-gradient(135deg, rgba(201, 140, 77, 0.3), rgba(228, 183, 122, 0.12));
-        border: 1px solid rgba(255, 255, 255, 0.10);
-        color: #fff;
-        font-weight: 800;
-    }
-
-    .quality-wrap {
-        display: grid;
-        grid-template-columns: 1.1fr 0.9fr;
-        gap: 18px;
-        align-items: stretch;
-    }
-
-    .check-list {
-        list-style: none;
-        margin-top: 22px;
-        display: grid;
-        gap: 12px;
-    }
-
-    .check-list li {
-        padding-left: 30px;
-        position: relative;
-        color: #fff;
-    }
-
-    .check-list li::before {
-        content: "✓";
-        position: absolute;
-        left: 0;
-        top: 0;
-        color: var(--accent-3);
-        font-weight: 800;
-    }
-
-    .quality-panel {
-        border-radius: 28px;
-        padding: 22px;
-        display: grid;
-        gap: 14px;
-    }
-
-    .metric {
-        padding: 20px;
-        border-radius: 20px;
-        background: rgba(255,255,255,0.05);
-        border: 1px solid rgba(255,255,255,0.08);
-    }
-
-    .metric strong {
-        display: block;
-        font-size: 2rem;
-        margin-bottom: 6px;
-    }
-
-    .metric span {
-        color: var(--muted);
-    }
-
-    .timeline {
-        display: grid;
-        gap: 18px;
-    }
-
-    .timeline-item {
-        display: flex;
-        gap: 18px;
-        padding: 22px;
-        border-radius: 22px;
-        align-items: flex-start;
-    }
-
-    .timeline-dot {
-        width: 14px;
-        height: 14px;
-        border-radius: 50%;
-        margin-top: 8px;
-        background: linear-gradient(135deg, var(--accent), var(--accent-3));
-        box-shadow: 0 0 0 8px rgba(201, 140, 77, 0.12);
-        flex: 0 0 auto;
-    }
-
-    .contact-box {
-        border-radius: 28px;
-        padding: 30px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 20px;
-    }
-
-    @media (max-width: 980px) {
-        .hero-grid,
-        .quality-wrap,
-        .info-grid,
-        .product-grid {
-            grid-template-columns: 1fr;
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Café Premium — Do Produtor à Xícara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+        /* ==========================================================================
+           RESET & VARIÁVEIS GLOBAIS (Design do Sistema — Paleta Terrosa Minimalista)
+           ========================================================================== */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
 
-        .hero-visual {
-            min-height: 520px;
+        :root {
+            /* Cores Estilizadas e Neutras */
+            --bg-dark: #0f0c1b;         /* Fundo profundo luxuoso */
+            --bg-card: rgba(22, 19, 32, 0.45); /* Vidro translúcido escuro */
+            --border-glow: rgba(186, 151, 122, 0.15);
+            
+            /* Tons de Café e Ouro Champagne */
+            --accent-primary: #ba977a;   /* Ouro sutil / Café cru elegante */
+            --accent-bright: #e3ccb8;    /* Tom creme claro de destaque */
+            --text-main: #f5f2eb;        /* Off-white quente, confortável para leitura */
+            --text-muted: #a8a29e;       /* Cinza terroso para textos secundários */
+            
+            /* Tipografia e Efeitos */
+            --font-serif: 'Playfair Display', Georgia, serif;
+            --font-sans: 'Inter', system-ui, sans-serif;
+            --shadow-premium: 0 30px 70px rgba(0, 0, 0, 0.6);
+            --transition-smooth: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
-        .hero-stats {
-            grid-template-columns: 1fr;
+        html {
+            scroll-behavior: smooth;
+            font-family: var(--font-sans);
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
         }
 
-        .contact-box {
-            flex-direction: column;
-            align-items: flex-start;
+        /* Estrutura base de cabeçalho moderno */
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            background: rgba(15, 12, 27, 0.75);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+            padding: 20px 0;
         }
-    }
 
-    @media (max-width: 720px) {
+        .nav-container {
+            width: 90%;
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: var(--font-serif);
+            font-size: 1.4rem;
+            font-weight: 500;
+            letter-spacing: 1px;
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--accent-primary);
+        }
+
+        .nav-menu {
+            display: flex;
+            gap: 32px;
+            list-style: none;
+        }
+
+        .nav-menu a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 400;
+            letter-spacing: 0.5px;
+            transition: var(--transition-smooth);
+        }
+
+        .nav-menu a:hover {
+            color: var(--accent-bright);
+        }
+
+        /* ==========================================================================
+           REGRAS DE LAYOUT & CONTAINER GLOBAL RESISTENTE
+           ========================================================================== */
+        .container {
+            width: 90%;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .section {
+            padding: 140px 0;
+            position: relative;
+        }
+
+        .section.alt {
+            background: linear-gradient(180deg, rgba(22, 19, 32, 0.3) 0%, transparent 100%);
+        }
+
+        /* Elemento de Rótulo / Eyebrow */
+        .eyebrow, .section-label {
+            display: inline-flex;
+            align-items: center;
+            padding: 6px 16px;
+            border-radius: 100px;
+            background: rgba(186, 151, 122, 0.06);
+            border: 1px solid rgba(186, 151, 122, 0.18);
+            color: var(--accent-bright);
+            font-size: 0.75rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 28px;
+        }
+
+        /* Cabeçalhos de Seções Modulares */
+        .section-head {
+            max-width: 800px;
+            margin-bottom: 80px;
+        }
+
+        .section-head h2 {
+            font-family: var(--font-serif);
+            font-size: clamp(2.2rem, 4vw, 3.8rem);
+            font-weight: 400;
+            line-height: 1.15;
+            letter-spacing: -0.5px;
+            margin-bottom: 24px;
+        }
+
+        .section-head p {
+            color: var(--text-muted);
+            font-size: clamp(1rem, 1.2vw, 1.15rem);
+            line-height: 1.8;
+            font-weight: 300;
+        }
+
+        /* Botões Minimalistas Premium */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px 36px;
+            border-radius: 4px;
+            font-size: 0.88rem;
+            font-weight: 500;
+            letter-spacing: 1px;
+            text-decoration: none;
+            text-transform: uppercase;
+            transition: var(--transition-smooth);
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background: var(--accent-primary);
+            color: #0f0c1b;
+            border: 1px solid var(--accent-primary);
+        }
+
+        .btn-primary:hover {
+            background: transparent;
+            color: var(--accent-bright);
+            border-color: var(--accent-bright);
+            transform: translateY(-2px);
+        }
+
+        .btn-ghost {
+            background: transparent;
+            color: var(--text-main);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+
+        .btn-ghost:hover {
+            border-color: var(--accent-primary);
+            color: var(--accent-bright);
+            transform: translateY(-2px);
+        }
+
+        /* ==========================================================================
+           HERO SECTION (Otimizada com Layout Flexível Grid e Imagens Puras)
+           ========================================================================== */
         .hero {
-            padding-top: 54px;
+            padding: 200px 0 100px;
+            min-height: 100vh;
+            margin-top: -120px;
+
+            display: flex;
+            align-items: center;
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1.2fr 0.8fr;
+            gap: 80px;
+            align-items: center;
         }
 
         .hero-copy h1 {
-            max-width: 12ch;
+            font-family: var(--font-serif);
+            font-size: clamp(3rem, 5.5vw, 5.8rem);
+            font-weight: 400;
+            line-height: 1.05;
+            letter-spacing: -2px;
+            margin-bottom: 28px;
         }
 
-        .main-card-content h2 {
-            font-size: 1.6rem;
+        .hero-copy h1 span {
+            color: var(--accent-primary);
+            font-style: italic;
+        }
+
+        .hero-text {
+            color: var(--text-muted);
+            font-size: clamp(1.05rem, 1.3vw, 1.25rem);
+            line-height: 1.8;
+            font-weight: 300;
+            max-width: 58ch;
+            margin-bottom: 40px;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 64px;
+        }
+
+        .hero-stats {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 24px;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+            padding-top: 40px;
+        }
+
+        .stat-card {
+            background: transparent;
+        }
+
+        .stat-card strong {
+            display: block;
+            font-family: var(--font-serif);
+            font-size: clamp(2rem, 3vw, 3.2rem);
+            font-weight: 400;
+            color: var(--accent-bright);
+            margin-bottom: 8px;
+        }
+
+        .stat-card span {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 400;
+        }
+
+        /* Painel Visual com Glassmorphism Avançado */
+        .hero-visual {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .glass-card {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 4/5;
+            min-height: 580px;
+            border-radius: 12px;
+            background: linear-gradient(180deg, rgba(255,255,255,0.02) 0%, rgba(255,255,255,0.00) 100%),
+                        url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            box-shadow: var(--shadow-premium);
+        }
+
+        .glass-card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(15, 12, 27, 0.1) 0%, rgba(15, 12, 27, 0.85) 100%);
+            z-index: 1;
+        }
+
+        .coffee-circle {
+            position: absolute;
+            right: -30px;
+            top: -30px;
+            width: 260px;
+            height: 260px;
+            border-radius: 50%;
+            border: 1px solid rgba(186, 151, 122, 0.15);
+            background: radial-gradient(circle, rgba(186, 151, 122, 0.04) 0%, transparent 70%);
+            animation: floatCircle 16s ease-in-out infinite;
+            z-index: 0;
+        }
+
+        .main-card-content {
+            position: absolute;
+            left: 40px;
+            right: 40px;
+            bottom: 40px;
+            z-index: 2;
+        }
+
+        .main-card-content h3 {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2;
+            margin-bottom: 16px;
+        }
+
+        .main-card-content p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            font-weight: 300;
+        }
+
+        /* Etiquetas Flutuantes Minimalistas */
+        .floating-tag {
+            position: absolute;
+            padding: 10px 20px;
+            border-radius: 4px;
+            background: rgba(15, 12, 27, 0.8);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            font-size: 0.8rem;
+            letter-spacing: 0.5px;
+            backdrop-filter: blur(10px);
+            z-index: 3;
+            animation: floatTag 8s ease-in-out infinite;
+        }
+        
+
+        .tag-one { top: 40px; left: -20px; animation-delay: 0s; }
+        .tag-two { top: 160px; right: -20px; animation-delay: -2s; }
+        .tag-three { bottom: 180px; left: -30px; animation-delay: -4s; }
+
+        /* ==========================================================================
+           SEÇÕES DE CONTEÚDO (Cards, Grades de Produtos e Elementos Dinâmicos)
+           ========================================================================== */
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 32px;
+        }
+
+        .info-card {
+            background: var(--bg-card);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            padding: 48px;
+            transition: var(--transition-smooth);
+        }
+
+        .info-card:hover {
+            border-color: var(--border-glow);
+            transform: translateY(-8px);
+            background: rgba(22, 19, 32, 0.6);
+        }
+
+        .info-card h3 {
+            font-family: var(--font-serif);
+            font-size: 1.45rem;
+            font-weight: 400;
+            margin-bottom: 20px;
+            color: var(--accent-bright);
+        }
+
+        .info-card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.75;
+            font-weight: 300;
+        }
+
+        /* Grade de Produtos Estilizada */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 24px;
+        }
+
+        .product-card {
+            background: var(--bg-card);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 6px;
+            padding: 40px 32px;
+            position: relative;
+            transition: var(--transition-smooth);
+        }
+
+        .product-card:hover {
+            border-color: var(--border-glow);
+            transform: translateY(-6px);
+        }
+
+        .product-icon {
+            font-family: var(--font-serif);
+            font-size: 1.1rem;
+            color: var(--accent-primary);
+            margin-bottom: 32px;
+            display: block;
+            position: relative;
+        }
+
+        .product-icon::after {
+            content: "";
+            position: absolute;
+            bottom: -8px;
+            left: 0;
+            width: 24px;
+            height: 1px;
+            background: rgba(186, 151, 122, 0.3);
+        }
+
+        .product-card h3 {
+            font-family: var(--font-sans);
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-bottom: 12px;
+            letter-spacing: -0.2px;
+        }
+
+        .product-card p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            line-height: 1.7;
+            font-weight: 300;
+        }
+
+        /* Seção de Qualidade e Métricas */
+        .quality-wrap {
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .check-list {
+            list-style: none;
+            margin-top: 40px;
+            display: grid;
+            gap: 20px;
+        }
+
+        .check-list li {
+            padding-left: 36px;
+            position: relative;
+            font-size: 1rem;
+            font-weight: 300;
+            color: var(--text-main);
+        }
+
+        .check-list li::before {
+            content: "—";
+            position: absolute;
+            left: 0;
+            color: var(--accent-primary);
+            font-weight: 400;
+        }
+
+        .quality-panel {
+            background: var(--bg-card);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 12px;
+            padding: 40px;
+            display: grid;
+            gap: 20px;
+        }
+
+        .metric {
+            padding: 32px;
+            border-radius: 6px;
+            background: rgba(15, 12, 27, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.02);
+            transition: var(--transition-smooth);
+        }
+
+        .metric:hover {
+            border-color: rgba(186, 151, 122, 0.1);
+        }
+
+        .metric strong {
+            display: block;
+            font-family: var(--font-serif);
+            font-size: 2.4rem;
+            font-weight: 400;
+            color: var(--accent-bright);
+            margin-bottom: 8px;
+        }
+
+        .metric span {
+            color: var(--text-muted);
+            font-size: 0.88rem;
+            letter-spacing: 0.5px;
+            font-weight: 300;
+        }
+
+        /* Seção de Linha do Tempo Estilizada */
+        .timeline {
+            display: grid;
+            gap: 32px;
+            max-width: 900px;
+            margin: 0 auto;
         }
 
         .timeline-item {
-            padding: 18px;
+            display: flex;
+            gap: 40px;
+            padding: 40px;
+            background: var(--bg-card);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            align-items: flex-start;
+            transition: var(--transition-smooth);
         }
-    }
-</style>
 
-<script>
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('active');
+        .timeline-item:hover {
+            border-color: var(--border-glow);
+        }
+
+        .timeline-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-top: 10px;
+            background: var(--accent-primary);
+            box-shadow: 0 0 0 6px rgba(186, 151, 122, 0.15);
+            flex: 0 0 auto;
+        }
+
+        .timeline-item h3 {
+            font-family: var(--font-serif);
+            font-size: 1.35rem;
+            font-weight: 400;
+            margin-bottom: 12px;
+            color: var(--accent-bright);
+        }
+
+        .timeline-item p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            font-weight: 300;
+        }
+
+        /* Bloco de Contato Corporativo */
+        .contact-box {
+            border-radius: 12px;
+            padding: 80px 60px;
+            background: linear-gradient(135deg, rgba(22, 19, 32, 0.7) 0%, rgba(15, 12, 27, 0.9) 100%);
+            border: 1px solid rgba(186, 151, 122, 0.12);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 60px;
+        }
+
+        .contact-box h2 {
+            font-family: var(--font-serif);
+            font-size: clamp(2rem, 3vw, 3.2rem);
+            font-weight: 400;
+            line-height: 1.2;
+            margin-bottom: 18px;
+        }
+
+        .contact-box p {
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            line-height: 1.75;
+            font-weight: 300;
+            max-width: 60ch;
+        }
+
+        /* ==========================================================================
+           SISTEMA DE ANIMAÇÕES ULTRA-FLUIDAS (Intersection Observer)
+           ========================================================================== */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 1.2s cubic-bezier(0.16, 1, 0.3, 1), 
+                        transform 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+            will-change: transform, opacity;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Keyframes Nativos Refinados */
+        @keyframes floatTag {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        @keyframes floatCircle {
+            0%, 100% { transform: translate(0, 0) scale(1); }
+            50% { transform: translate(-15px, 10px) scale(1.05); }
+        }
+
+        /* ==========================================================================
+           RESPONSIVIDADE COMPLETA E INTELIGENTE
+           ========================================================================== */
+        @media (max-width: 1200px) {
+            .product-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                gap: 24px;
             }
-        });
-    }, {
-        threshold: 0.16
-    });
+            .info-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
 
-    document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
-</script>
+        @media (max-width: 992px) {
+            .section {
+                padding: 100px 0;
+            }
+            .hero-grid, .quality-wrap {
+                grid-template-columns: 1fr;
+                gap: 64px;
+            }
+            .hero {
+                padding-top: 160px;
+            }
+            .hero-visual {
+                min-height: auto;
+            }
+            .glass-card {
+                min-height: 500px;
+            }
+            .contact-box {
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 48px 32px;
+                gap: 40px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .info-grid, .product-grid {
+                grid-template-columns: 1fr;
+            }
+            .hero-stats {
+                grid-template-columns: 1fr;
+                gap: 32px;
+            }
+            .timeline-item {
+                flex-direction: column;
+                gap: 20px;
+                padding: 32px 24px;
+            }
+            .nav-menu {
+                display: none; 
+            }
+            .footer-grid {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .footer-copyright {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="nav-container">
+            <a href="#" class="logo">CAFÉ<span>PREMIUM</span></a>
+            <ul class="nav-menu">
+                <li><a href="#sobre">Origem</a></li>
+                <li><a href="#produtos">Coleções</a></li>
+                <li><a href="#qualidade">Pureza</a></li>
+                <li><a href="#estrutura">Expansão</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container hero-grid">
+                <div class="hero-copy reveal">
+                   
+                    <h1>Conectando tradição, qualidade e <span>experiência única</span>.</h1>
+                    <p class="hero-text">
+                        Uma plataforma estruturada para valorizar, apresentar e negociar micro-lotes de alta classificação. Foco em rastreabilidade cirúrgica, sustentabilidade real e conexão direta entre mestres produtores e o mercado de alta gastronomia.
+                    </p>
+
+                    <div class="hero-actions">
+                        <a href="#produtos" class="btn btn-primary">Explorar Coleções</a>
+                        <a href="#sobre" class="btn btn-ghost">Nossa Philosophy</a>
+                    </div>
+
+                    <div class="hero-stats">
+                        <div class="stat-card">
+                            <strong>+1.500</strong>
+                            <span>Produtores Assistidos</span>
+                        </div>
+                        <div class="stat-card">
+                            <strong>100%</strong>
+                            <span>Origem Controlada</span>
+                        </div>
+                        <div class="stat-card">
+                            <strong>Estrita</strong>
+                            <span>Análise Sensorial</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="hero-visual reveal">
+                    <div class="glass-card">
+                        <div class="coffee-circle"></div>
+                        <div class="floating-tag tag-one">Torra Customizada</div>
+                        <div class="floating-tag tag-two">Densidade Selecionada</div>
+                        <div class="floating-tag tag-three">SCA 85+ Points</div>
+
+                        <div class="main-card-content">
+                            <span style="color: var(--accent-primary); font-size: 0.75rem; letter-spacing: 1px; text-transform: uppercase; display: block; margin-bottom: 8px;">Lote Reserva</span>
+                            <h3>Excelência Consistente em Cada Etapa</h3>
+                            <p>Do terroir impecável ao envase sob atmosfera modificada. Processos validados por juízes internacionais e uma cadeia de suprimentos totalmente transparente.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="sobre" class="section">
+            <div class="container">
+                <div class="section-head reveal">
+                    <span class="section-label">O Legado da Marca</span>
+                    <h2>Design Minimalista Para Marcas de Forte Presença Comercial</h2>
+                    <p>Esta estrutura foi projetada especificamente para cooperativas de ponta e exportadores tradicionais que demandam autoridade visual, reputação limpa e escalabilidade tecnológica.</p>
+                </div>
+
+                <div class="info-grid">
+                    <article class="info-card reveal">
+                        <h3>Terroir & Altitude</h3>
+                        <p>Apresentação detalhada da procedência geográfica, mapeamento de faces solares, altitudes médias elevadas e microclimas únicos que desenham perfis químicos complexos.</p>
+                    </article>
+
+                    <article class="info-card reveal">
+                        <h3>Relação Simbiótica</h3>
+                        <p>Valorização do homem do campo por meio de contratos de comércio justo, pacotes de assistência agronômica contínua e investimentos massivos em infraestrutura local.</p>
+                    </article>
+
+                    <article class="info-card reveal">
+                        <h3>Posicionamento</h3>
+                        <p>A estética limpa e o espaçamento generoso elevam instantaneamente o valor percebido do produto, alinhando a marca aos players mais luxuosos do mercado global.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="produtos" class="section alt">
+            <div class="container">
+                <div class="section-head reveal">
+                    <span class="section-label">Categorias</span>
+                    <h2>Linhas Estruturadas Para Atender Diferentes Demandas Comerciais</h2>
+                    <p>Um ecossistema versátil desenhado para se adequar a catálogos de sacas verdes (commodity premium), grãos torrados comerciais, cápsulas tecnológicas ou lotes de leilão.</p>
+                </div>
+
+                <div class="product-grid">
+                    <article class="product-card reveal">
+                        <span class="product-icon">01</span>
+                        <h3>Classificação Tradicional</h3>
+                        <p>Perfil de torra equilibrado, doçura de caramelo acentuada e aceitação em massa no ambiente corporativo.</p>
+                    </article>
+
+                    <article class="product-card reveal">
+                        <span class="product-icon">02</span>
+                        <h3>Micro-Lotes Especiais</h3>
+                        <p>Notas sensoriais complexas (florais e frutadas), acidez fosfórica brilhante e rastreabilidade total da fazenda.</p>
+                    </article>
+
+                    <article class="product-card reveal">
+                        <span class="product-icon">03</span>
+                        <h3>Blends Corporativos</h3>
+                        <p>Combinação exata de grãos de diferentes regiões para garantir consistência extrema e sabor exclusivo o ano todo.</p>
+                    </article>
+
+                    <article class="product-card reveal">
+                        <span class="product-icon">04</span>
+                        <h3>Lotes de Exportação</h3>
+                        <p>Preparação rigorosa de padrão internacional (Afonso, NY2/3), pronto para embarques e trâmites portuários céleres.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="qualidade" class="section">
+            <div class="container quality-wrap">
+                <div class="quality-copy reveal">
+                    <span class="section-label">Rigor Analítico</span>
+                    <h2>Controle Científico para Manter a Confiança Mercadológica</h2>
+                    <p>Interfaces corporativas exigem precisão. Demonstre de forma clara os seus pilares técnicos de controle: análises físicas via inteligência artificial, curvas de torra computadorizadas e certificações internacionais.</p>
+
+                    <ul class="check-list">
+                        <li>Varredura óptica eletrônica de defeitos físicos</li>
+                        <li>Rastreamento térmico via software Cropster em tempo real</li>
+                        <li>Homologação de práticas regenerativas e pegada de carbono neutra</li>
+                        <li>Análise de cup de acordo com os rigorosos protocolos mundiais SCA</li>
+                    </ul>
+                </div>
+
+                <div class="quality-panel reveal">
+                    <div class="metric">
+                        <strong>Score 85+</strong>
+                        <span>Pontuação mínima aceita para nossa linha de microlotes</span>
+                    </div>
+                    <div class="metric">
+                        <strong>24/7</strong>
+                        <span>Monitoramento e suporte logístico para importadores</span>
+                    </div>
+                    <div class="metric">
+                        <strong>ISO 22000</strong>
+                        <span>Alinhado às diretrizes globais de segurança alimentar</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="estrutura" class="section alt">
+            <div class="container">
+                <div class="section-head reveal">
+                    <span class="section-label">Arquitetura de Expansão</span>
+                    <h2>Um Ecossistema Pronto para o Crescimento Digital</h2>
+                    <p>Diferente de landing pages comuns, esta estrutura de código modular foi projetada pensando nas próximas integrações de canais de venda complexos da empresa.</p>
+                </div>
+
+                <div class="timeline">
+                    <div class="timeline-item reveal">
+                        <span class="timeline-dot"></span>
+                        <div>
+                            <h3>Portal do Comprador Internacional</h3>
+                            <p>Ambiente seguro contendo laudos de classificação, certificados fitossanitários e tracking de contêineres marítimos.</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item reveal">
+                        <span class="timeline-dot"></span>
+                        <div>
+                            <h3>Mecanismo de Cotação B2B</h3>
+                            <p>Formulários dinâmicos com atualização de precificação em tempo real indexada à Bolsa de Nova York (ICE).</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item reveal">
+                        <span class="timeline-dot"></span>
+                        <div>
+                            <h3>Canal do Cooperado / Produtor</h3>
+                            <p>Dashboard focado na transparência, permitindo o acompanhamento de entregas de café, notas de classificação e balanço financeiro.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contato" class="section">
+            <div class="container">
+                <div class="contact-box reveal">
+                    <div>
+                        <span class="section-label" style="margin-bottom: 20px;">Contato Institucional</span>
+                        <h2>Posicione Sua Operação no Topo do Mercado</h2>
+                        <p>Este layout reflete as tendências de design de estúdios europeus. Estamos prontos para escalar este front-end conectando painéis administrativos, bancos de dados relacionais e sistemas integrados (ERPs).</p>
+                    </div>
+                    <a href="mailto:negocios@cafepremium.com" class="btn btn-primary" style="white-space: nowrap;">Solicitar Acordo</a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        // Menu Mobile (Hamburguer)
+        const menuToggle = document.getElementById('menuToggle');
+        const navLinks = document.getElementById('navLinks');
+
+        if (menuToggle && navLinks) {
+            menuToggle.addEventListener('click', () => {
+                const isOpen = navLinks.style.display === 'flex';
+                navLinks.style.display = isOpen ? 'none' : 'flex';
+                navLinks.style.position = isOpen ? '' : 'absolute';
+                navLinks.style.top = isOpen ? '' : '82px';
+                navLinks.style.left = isOpen ? '' : '16px';
+                navLinks.style.right = isOpen ? '' : '16px';
+                navLinks.style.flexDirection = isOpen ? '' : 'column';
+                navLinks.style.gap = isOpen ? '' : '16px';
+                navLinks.style.padding = isOpen ? '' : '18px';
+                navLinks.style.borderRadius = isOpen ? '' : '18px';
+                navLinks.style.background = isOpen ? '' : 'rgba(15, 11, 8, 0.96)';
+                navLinks.style.border = isOpen ? '' : '1px solid rgba(255,255,255,0.08)';
+                navLinks.style.boxShadow = isOpen ? '' : '0 24px 60px rgba(0,0,0,0.35)';
+            });
+        }
+        document.addEventListener("DOMContentLoaded", () => {
+            const observerOptions = {
+                root: null,
+                rootMargin: "0px",
+                threshold: 0.12
+            };
+
+            const revealCallback = (entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                        observer.unobserve(entry.target); // Libera memória do navegador
+                    }
+                });
+            };
+
+            const observer = new IntersectionObserver(revealCallback, observerOptions);
+            
+            document.querySelectorAll('.reveal').forEach(element => {
+                observer.observe(element);
+            });
+        });
+    </script>
+</body>
+</html>
